@@ -8,3 +8,5 @@ new branch
 branch rebase
 
 New changes
+
+Merge changes
